@@ -1,0 +1,4 @@
+train 1,053,917  valid 510,143
+A baseline                   macro-F1 0.2506  (376s)
+B + last gap                 macro-F1 0.2471  (370s)
+C + windows (10m/1h/1d)      macro-F1 0.2325  (299s)
